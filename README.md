@@ -36,3 +36,4 @@ Side-by-side use of Boost and POCO is a very common occurrence.
 
 [overview]: doc/images/overview.png "Poco Overview"
 [logo]: doc/images/logo.png "Poco Logo"
+update by poco
